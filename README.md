@@ -10,6 +10,10 @@ las claves caracter -> Morse.
 
 * segmentacion del codigo en archivos.
 
+Menu:
+1. Codificar a Morse
+0. Salir
+
 ---
 
 ## Compilar
