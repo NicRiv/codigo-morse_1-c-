@@ -1,3 +1,3 @@
 // Declaracion
 
-std::string codificar (std::string frase);
+std::string traducir (std::string frase);

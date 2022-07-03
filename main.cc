@@ -22,7 +22,7 @@ int main () {
 				cout << "\n" << "Ingrese la frase a codificar" << "\n";
 				cout << "> ";
 				getline(cin, frase);
-				cout << "\n" << codificar(frase) << "\n";
+				cout << "\n" << traducir(frase) << "\n";
 
 				cout << "\n" << "<< [9] Menu ; [0] Salir >>" << "\n";
 				cout << "> ";
