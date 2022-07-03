@@ -1,5 +1,11 @@
 #include <iostream>
-#include "funciones.h"
+#include <string>
+#include <vector>
+#include <fstream>
+
+// #include "funciones.h"
+#include "codificar_a_morse.h"
+
 using namespace std;
 
 void nueva_pag();
@@ -22,6 +28,7 @@ int main () {
 				cout << "\n" << "Ingrese la frase a codificar" << "\n";
 				cout << "> ";
 				getline(cin, frase);
+
 				cout << "\n" << traducir(frase) << "\n";
 
 				cout << "\n" << "<< [9] Menu ; [0] Salir >>" << "\n";
