@@ -3,7 +3,7 @@
 Un programa en c++ para codificar frases a Morse.
 
 ---
-Version : 2.1
+_Version : 2.1_
 
 * Cambio de algoritmo, e implementacion de archivo .txt que contiene
 las claves caracter -> Morse.
