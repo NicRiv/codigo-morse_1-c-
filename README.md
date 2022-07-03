@@ -13,7 +13,7 @@ las claves caracter -> Morse.
 ---
 
 ## Compilar
-	g++ main.cc funciones.cc -o codigo-morse
+	g++ main.cc funciones.cc codificar_a_morse.cc -o codigo-morse
 
 ## Ejecutar
 	./codigo-morse
